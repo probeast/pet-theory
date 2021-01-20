@@ -1,4 +1,4 @@
-module github.com/Deleplace/pet-theory
+module github.com/probeast/pet-theory
 
 go 1.13
 
